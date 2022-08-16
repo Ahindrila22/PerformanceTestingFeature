@@ -1,0 +1,12 @@
+{
+       "testName":"GoogleLoad",
+        "ip": "10.20.30.40",
+        "ApiUrl" : "hjjj",
+        "portNo" : "8080",
+        "noOfThreads": 1,
+        "rampUpTime": "12",
+       "durationOfLoadTime": "44567",
+        "domainName":"google.com",
+        "httpMethod": "Get"
+
+}
